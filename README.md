@@ -24,6 +24,14 @@ The **TensorFlow** model is used to predict the ETA based on various input featu
 
 **ETA** refers to the predicted time it will take to complete a ride based on historical data and input features. The model outputs ETA in minutes, providing users with an estimate of how long their trip might take.
 
+
+## Demonstration
+
+
+
+https://github.com/user-attachments/assets/620d29dd-da53-4236-a08e-b88fb621bb73
+
+
 ## Installation
 
 To set up the project, follow these steps:
